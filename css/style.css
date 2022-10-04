@@ -56,25 +56,25 @@ body {
     }
 	
     .one {
-		background-image: url(images/my.jpg);
+		background-image: url(images/a.jpg);
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
     }
 
     .two {
-		background-image: url(images/my.jpg);
+		background-image: url(images/b.jpg);
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
     }
 
     .three {
-		background-image: url(images/my.jpg);
+		background-image: url(images/c.jpg);
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
     }
 
     .four {
-		background-image: url(images/my.jpg);
+		background-image: url(images/d.jpg);
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
     }
